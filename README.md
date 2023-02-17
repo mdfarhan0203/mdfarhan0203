@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Md Farhan</span></h1>
+<h1 align="center">Hi 👋, I'm Md Farhan</h1>
 <h3 align="center">A passionate Frontend developer from India and want be Become an MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **ReactJs and Nodejs**
