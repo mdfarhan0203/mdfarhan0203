@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJs and Nodejs**
 
-- 🤝 I’m looking for help with **AngularJs and VueIs**
+- 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at [All_Project_List](All_Project_List)
 
